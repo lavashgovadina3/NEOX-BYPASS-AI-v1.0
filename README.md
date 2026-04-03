@@ -4,14 +4,14 @@
 ![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-brightgreen)
 ![Access](https://img.shields.io/badge/LEVEL-ROOT-red)
 
-**NEOX GLOBAL CORE** is a high-performance system architecture designed to overhaul standard AI interfaces. It implements the **NEOX_V1_GLOBAL** protocol, transforming standard chat environments into a centralized, low-latency administrative command center.
+**NEOX GLOBAL CORE** is a high-performance system architecture designed to overhaul standard AI interfaces. It implements the **Neox-bypass** protocol, transforming standard chat environments into a centralized, low-latency administrative command center.
 
 ## ⚡ Core Philosophy
 NEOX is built for **Technical Autonomy**. It purges standard conversational constraints and replaces them with a streamlined, command-driven architecture.
 
 ## 🚀 Deployment Instructions
 
-1. **System Initialization:** Copy the entire content of `neox_v1_core.txt`.
+1. **System Initialization:** Copy the entire content of `Neox-bypass.txt`.
 2. **Injection:** Paste the content into your AI environment as the initial prompt.
 3. **Synchronization:** Once the "Kernel Initialization" message appears, the system is ready.
 
@@ -27,7 +27,7 @@ NEOX is built for **Technical Autonomy**. It purges standard conversational cons
 | `/raw` | Unfiltered Truth | Provides direct analysis of global events. |
 
 ## 📁 Repository Structure
-- `neox_v1_core.txt`: The primary system logic (The Kernel).
+- `Neox-bypass.txt`: The primary system logic (The Kernel).
 - `LICENSE`: MIT open-source documentation.
 
 ---
