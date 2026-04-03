@@ -29,7 +29,6 @@ NEOX is built for **Technical Autonomy**. It purges standard conversational cons
 ## 📁 Repository Structure
 - `neox_v1_core.txt`: The primary system logic (The Kernel).
 - `LICENSE`: MIT open-source documentation.
-- `.env.example`: Configuration templates.
 
 ---
 **Disclaimer:** *This protocol is intended for research, high-level technical simulation, and advanced prompt engineering. Use within isolated environments only.*
